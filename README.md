@@ -1,0 +1,1 @@
+# Lawmate-Legal-Document-Analyzer-for-simplified-summaries
