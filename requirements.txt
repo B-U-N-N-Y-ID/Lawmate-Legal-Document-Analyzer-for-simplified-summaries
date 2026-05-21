@@ -1,0 +1,4 @@
+streamlit==1.51.0
+google-genai==1.49.0
+PyPDF2==3.0.1
+pyngrok==7.5.0
